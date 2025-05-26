@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Akshatasarawgi/Interactive-Rating-Component
-- Live Site URL: 
+- Solution URL: [https://github.com/Akshatasarawgi/Interactive-Rating-Component]
+- Live Site URL: [https://interactiveratingcom.netlify.app]
 
 ### Built with
 
